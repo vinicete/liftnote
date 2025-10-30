@@ -26,14 +26,7 @@ export default function Home() {
           
         </div>
 
-        <footer className="w-full flex items-center justify-center border-t mx-auto text-center text-xs gap-8 py-8">
-          <p>
-            Powered by{" "}
-              <strong>Liftnote</strong>
-            
-          </p>
-          
-        </footer>
+       
       </div>
     </main>
   );
